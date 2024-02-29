@@ -1,4 +1,4 @@
-WELCOME TO APPLE FRAMEWORKS ListView APP
+WELCOME TO APPLE FRAMEWORKS LISTVIEW APP
 
 Apple-Frameworks-ListView App is an iOS application that involves List view of different apple frameworks.
 you can tap on that particular framework and learn about that particular framework.
