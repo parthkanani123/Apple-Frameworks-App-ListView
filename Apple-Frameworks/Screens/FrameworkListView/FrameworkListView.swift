@@ -7,10 +7,10 @@
 
 import SwiftUI
 
-struct FrameworkGridView: View
+struct FrameworkListView: View
 {
     // FrameworkGridView is destoyed and recreated all the time but viewModel is going to be held of elsewhere and persist & maintenance data bcz of @StateObject, it's going to stay alive while FrameworkGridView gets destoyed and recreated all the time
-    @StateObject var viewModel = FrameworkGridViewModel()
+    @StateObject var viewModel = FrameworkListViewModel()
     
     // @StateObject -> creating a new viewModel
     // @ObservedObject -> passing one in
@@ -41,7 +41,7 @@ struct FrameworkGridView: View
 }
 
 #Preview {
-    FrameworkGridView()
+    FrameworkListView()
         .preferredColorScheme(.dark)
 }
 
