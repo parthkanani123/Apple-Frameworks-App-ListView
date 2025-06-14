@@ -10,3 +10,8 @@ https://github.com/parthkanani123/Apple-Frameworks-ListView/assets/112791725/434
 
 
 
+➤ Added 15+ different frameworks <br>
+➤ Developed ListView and GridView for the same <br>
+➤ Created detailView which involves Framework image, its name as well as short & crisp description of framework<br>
+➤ Used SafariServices Framework which opens SafariView in the app, involves detailed documentation of the framework<br>
+➤ Tech Stack Used : Swift, SwiftUI, Xcode, MVVM<br>
